@@ -1,23 +1,15 @@
 ### Hey, I'm Josh.
 
-I take classic PC games and recompile them into real Apple Silicon apps. No Wine, no Rosetta, no emulator: the game's own x86 code gets translated to C, compiled for arm64, and run on Metal and Core Audio. You bring your own copy of the game and the app builds itself from it.
+I build apps, websites and games. I also love bringing old PC games back to life so they run properly on today's machines. By day I'm a web engineer building WordPress sites and plugins; everything here is stuff I make because I want it to exist.
 
-I also make my own games and desktop apps, and by day I build WordPress sites and plugins.
+**[joshspeakman.github.io](https://joshspeakman.github.io)** has it all in one place.
 
-**[joshspeakman.github.io](https://joshspeakman.github.io)** has everything in one place.
+#### Apps and tools
 
-#### Native ports
-
-| Game | Original | Status | |
-|---|---|---|---|
-| [Theme Park](https://github.com/Joshspeakman/OpenPark) | Bullfrog, 1994 | Beta 1.4 | [Download](https://github.com/Joshspeakman/OpenPark/releases) |
-| [Delta Force 1 & 2](https://github.com/Joshspeakman/delta-force-macos) | NovaLogic, 1998 | Beta 1, Mac and Linux | [Download](https://github.com/Joshspeakman/delta-force-macos/releases) |
-| [Rainbow Six](https://github.com/Joshspeakman/rainbow-six-macos) | Red Storm, 1998 | Multiplayer in alpha, Mac and Linux | [Download](https://github.com/Joshspeakman/rainbow-six-macos/releases) |
-| [The Sims](https://github.com/Joshspeakman/sims-legacy-macos) | Maxis, 2000 | Beta 1 | [Download](https://github.com/Joshspeakman/sims-legacy-macos/releases) |
-| [Diablo II](https://github.com/Joshspeakman/diablo-2-macos) | Blizzard North, 2000 | Beta 4 | [Download](https://github.com/Joshspeakman/diablo-2-macos/releases) |
-| [Dungeon Siege](https://github.com/Joshspeakman/dungeon-siege-macos) | Gas Powered Games, 2002 | Beta 3 | [Download](https://github.com/Joshspeakman/dungeon-siege-macos/releases) |
-| [The Sims 2](https://github.com/Joshspeakman/sims-2-macos) | Maxis, 2004 | Beta 1 | [Download](https://github.com/Joshspeakman/sims-2-macos/releases) |
-| [Dungeon Siege II](https://github.com/Joshspeakman/dungeon-siege-2-macos) | Gas Powered Games, 2005 | Beta 3 | [Download](https://github.com/Joshspeakman/dungeon-siege-2-macos/releases) |
+- **[dotFound](https://github.com/Joshspeakman/dotfound)**: a game launcher that finds every game on your PC and puts them on one shelf.
+- **[Driftwave](https://github.com/Joshspeakman/driftwave)**: internet radio, being rebuilt in Rust for Windows, macOS and Linux.
+- **[ROM Cleanup](https://github.com/Joshspeakman/Rom-Cleanup)**: sorts and dedupes ROM collections.
+- **[Invoice Pro](https://github.com/Joshspeakman/Invoice-Pro)**: a client-side invoice generator where nothing leaves your browser.
 
 #### Games I made
 
@@ -25,10 +17,14 @@ I also make my own games and desktop apps, and by day I build WordPress sites an
 - **[Bananageddon](https://github.com/Joshspeakman/Bananageddon)**: QBasic Gorillas, rebuilt as an online multiplayer browser game.
 - **[Cheese the Duck](https://github.com/Joshspeakman/cheese-the-duck)**: a terminal virtual pet with opinions about bread.
 
-#### Apps and tools
+#### Game restoration
 
-- **[dotFound](https://github.com/Joshspeakman/dotfound)**: a game launcher that finds every game on your PC and puts them on one shelf.
-- **[Driftwave](https://github.com/Joshspeakman/driftwave)**: internet radio, being rebuilt in Rust for Windows, macOS and Linux.
-- **[ROM Cleanup](https://github.com/Joshspeakman/Rom-Cleanup)**: sorts and dedupes ROM collections.
+Classic PC games rebuilt from their original code into native apps that run on modern Macs without Wine, Rosetta or an emulator. You bring your own copy of the game.
 
-Found a bug in one of the ports, or have a game you want to see next? Open an issue on that repo and I'll see it. If something here saved you some time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/speakerjosh).
+[Theme Park](https://github.com/Joshspeakman/OpenPark) · [Delta Force 1 & 2](https://github.com/Joshspeakman/delta-force-macos) · [Rainbow Six](https://github.com/Joshspeakman/rainbow-six-macos) · [The Sims](https://github.com/Joshspeakman/sims-legacy-macos) · [Diablo II](https://github.com/Joshspeakman/diablo-2-macos) · [Dungeon Siege](https://github.com/Joshspeakman/dungeon-siege-macos) · [The Sims 2](https://github.com/Joshspeakman/sims-2-macos) · [Dungeon Siege II](https://github.com/Joshspeakman/dungeon-siege-2-macos)
+
+#### Web
+
+WordPress sites, custom plugins and the hosting behind them, plus a few open-source pieces like a [testimonial slider plugin](https://github.com/Joshspeakman/advanced-testimonial-slider) and a [custom-controls YouTube player](https://github.com/Joshspeakman/YouTube-Video-Player-with-Custom-Controls).
+
+Got a bug, a question or an idea? Open an issue on any repo and I'll see it. If something here saved you some time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/speakerjosh).
