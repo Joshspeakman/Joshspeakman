@@ -1,5 +1,3 @@
-### Hey, I'm Josh.
-
 I build apps, websites and games. I also love bringing old PC games back to life so they run properly on today's machines. By day I'm a web engineer building WordPress sites and plugins; everything here is stuff I make because I want it to exist.
 
 **[joshspeakman.github.io](https://joshspeakman.github.io)** has it all in one place.
