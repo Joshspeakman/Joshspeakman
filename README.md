@@ -2,6 +2,12 @@ I build apps, websites and games. I also love bringing old PC games back to life
 
 **[joshspeakman.github.io](https://joshspeakman.github.io)** has it all in one place.
 
+#### Dead West Railway
+
+<a href="https://github.com/Joshspeakman/dead-west-railway-cs"><img src="https://raw.githubusercontent.com/Joshspeakman/dead-west-railway-cs/main/screenshots/title.png" width="720" alt="Dead West Railway title screen"></a>
+
+My co-op survival game on a haunted frontier railroad, for 1 to 6 players on Windows, macOS and Linux: online, on your own network, two at one screen, or alone. **[Download it](https://github.com/Joshspeakman/dead-west-railway-cs#download)** or see the [screenshots and details](https://github.com/Joshspeakman/dead-west-railway-cs).
+
 #### Apps and tools
 
 - **[dotFound](https://github.com/Joshspeakman/dotfound)**: a game launcher that finds every game on your PC and puts them on one shelf.
@@ -11,7 +17,7 @@ I build apps, websites and games. I also love bringing old PC games back to life
 
 #### Games I made
 
-- **[Dead West Railway](https://github.com/Joshspeakman/dead-west-railway)**: co-op survival on a haunted frontier railroad for 1 to 6 players. Windows, macOS, Linux, or [play it in your browser](https://dead-west-railway.fly.dev).
+- **[Dead West Railway](https://github.com/Joshspeakman/dead-west-railway-cs)**: co-op survival on a haunted frontier railroad for 1 to 6 players, on Windows, macOS and Linux. The original browser-built version is [Dead West Railway Classic](https://github.com/Joshspeakman/dead-west-railway).
 - **[Bananageddon](https://github.com/Joshspeakman/Bananageddon)**: QBasic Gorillas, rebuilt as an online multiplayer browser game.
 - **[Cheese the Duck](https://github.com/Joshspeakman/cheese-the-duck)**: a terminal virtual pet with opinions about bread.
 
